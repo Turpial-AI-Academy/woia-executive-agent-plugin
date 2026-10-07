@@ -40,3 +40,6 @@ mise run ci:fast
 mise run ci:extended
 mise run release:check
 ~~~
+
+## Executive methodology
+The five-phase skill implements accepted direction, scoped visibility, owned exceptions, receiver-owned contributions and changed-decision follow-up. Core >= 0.5.3 is the sole hard plugin dependency. The planning helper is pure and cannot dispatch contacts or money. Host transport/authority qualification remains separate. See skills/woia-executive/references/contract.md. No Production Ready or Operator E2E claim.

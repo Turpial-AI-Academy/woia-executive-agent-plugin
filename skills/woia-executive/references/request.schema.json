@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Executive planning envelope",
+  "type": "object",
+  "required": [
+    "operation",
+    "organization",
+    "scope",
+    "actor",
+    "target",
+    "source_revision",
+    "correlation",
+    "evidence",
+    "grant",
+    "evaluated_at",
+    "current_grant_revision"
+  ],
+  "properties": {
+    "operation": {
+      "enum": [
+        "direction",
+        "view",
+        "exception",
+        "contribution",
+        "follow-up"
+      ]
+    },
+    "organization": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "actor": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_revision": {
+      "type": "string",
+      "minLength": 1
+    },
+    "correlation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "evidence": {
+      "type": "object"
+    },
+    "grant": {
+      "type": "object"
+    },
+    "evaluated_at": {
+      "type": "number"
+    },
+    "current_grant_revision": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

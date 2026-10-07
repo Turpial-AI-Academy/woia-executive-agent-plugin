@@ -27,3 +27,6 @@ mise run release:check
 Also run `skills-ref validate` for each skill when available.
 
 No placeholder token or scaffold-only `README.plugin.md` may remain in the release candidate.
+
+## Executive regression
+Run mise run test for exact grant/source scope, UNKNOWN measurements, incomparable periods, receiver independence and material-change follow-up negative tests. Local certification does not qualify host transport or Operator E2E.
