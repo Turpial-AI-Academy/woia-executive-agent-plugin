@@ -1,6 +1,5 @@
 # Executive contract
 
-Source: WOIA Real Estate ADR-0019, docs/21 ownership, docs/22 Source Authority, docs/24 competent effect authority, docs/25 qualification, docs/26 B5 graph at b716f1d1c0e2bc5ecf946043b337a2ddba4285f0.
 
 The five phases are accepted direction, scoped comparable view, management exceptions, receiver-owned contributions and changed-decision continuity. Independent departmental ownership and direct collaboration remain intact. Data governs integrity/lineage, Finance monetary truth, Knowledge accepted criteria, Core Tasks/Effects/snapshots/Due Work/transport. There is no Executive master warehouse, KPI source, universal router or authority service.
 
