@@ -6,7 +6,7 @@ license: MIT
 
 # Executive orchestration
 
-Requires Core >= 0.5.3. One root per organization/department/Project, not per metric or manager. Read [the contract](references/contract.md) before planning. Use [the pure helper](scripts/executive-plan.mjs) with trusted host evidence/grants; it never persists business truth, dispatches or executes effects.
+Requires Core >= 0.5.6. One root per organization/department/Project, not per metric or manager. Read [the contract](references/contract.md) before planning. Use [the pure helper](scripts/executive-plan.mjs) with trusted host evidence/grants; it never persists business truth, dispatches or executes effects.
 
 1. Recover current accepted direction, approving actor/version/scope/period and actual powers. Ideas/recommendations are not accepted decisions; Knowledge/configuration retains criteria. Never invent goals/limits.
 2. Read authorized source-backed view with definition, period, population, owner, source, freshness and limitations. Missing/stale/conflicted measurements stay UNKNOWN, never zero. Comparable values do not prove causality. Finance retains monetary truth and departments retain KPI semantics.
