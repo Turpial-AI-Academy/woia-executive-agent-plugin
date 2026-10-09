@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-executive",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "Source-backed executive direction, bounded priorities and receiver-owned management contributions.",
   "author": {
     "name": "Turpial AI Academy",
