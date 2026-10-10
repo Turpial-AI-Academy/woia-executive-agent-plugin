@@ -1,7 +1,7 @@
 {
   "schema": "dev.woia.department-orchestrator/v1",
   "name": "woia-executive",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "origin": "native",
   "authoring_profile": "thin",
   "kind": "department-orchestrator",
